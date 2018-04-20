@@ -2,6 +2,6 @@
     <BODY>
          <B>Contoh ini menggunakan Javascript yang diambil dari File lain..</B>
          <P>
-          <SCRIPT language="JavaScript" SRC="isi.js"></SCRIPT>
+         <SCRIPT language="JavaScript" SRC="isi.js"></SCRIPT>
     </BODY>
 </HTML> 
